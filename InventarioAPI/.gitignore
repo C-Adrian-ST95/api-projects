@@ -1,0 +1,28 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Variables privadas
+.env
+.env.*
+!.env.example
+
+# Editores
+.vscode/
+.idea/
+
+# Java
+target/
+.gradle/
+build/
+
+# Node.js
+node_modules/
+dist/
+
+# Archivos temporales
+*.log
